@@ -1,6 +1,6 @@
 # 01 Python 分析程式（命令列版）
 
-![第一步流程圖卡](image/01-crawler-flow.svg)
+![第一步流程圖卡](01-crawler-flow.svg)
 
 ## 這一步的目標
 
